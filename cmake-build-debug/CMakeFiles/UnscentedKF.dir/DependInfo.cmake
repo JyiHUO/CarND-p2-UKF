@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/main.cpp" "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/main.cpp.o"
-  "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/tools.cpp" "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/tools.cpp.o"
-  "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/ukf.cpp" "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/ukf.cpp.o"
+  "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/main.cpp" "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/main.cpp.o"
+  "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/tools.cpp" "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/tools.cpp.o"
+  "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/ukf.cpp" "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/CMakeFiles/UnscentedKF.dir/src/ukf.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

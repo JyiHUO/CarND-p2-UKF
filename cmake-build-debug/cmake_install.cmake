@@ -1,4 +1,4 @@
-# Install script for directory: /Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project
+# Install script for directory: /Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

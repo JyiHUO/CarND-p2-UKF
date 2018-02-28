@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug"/>
+				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug"/>
+				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug"/>
+				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="UnscentedKF">
-				<Option output="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/UnscentedKF" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug"/>
+				<Option output="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/UnscentedKF" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
@@ -54,15 +54,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 UnscentedKF"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 UnscentedKF"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="UnscentedKF/fast">
-				<Option output="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/UnscentedKF" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug"/>
+				<Option output="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/UnscentedKF" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="clang"/>
@@ -77,29 +77,29 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 UnscentedKF/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 UnscentedKF/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/main.cpp">
+		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/main.cpp">
 			<Option target="UnscentedKF"/>
 		</Unit>
-		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/tools.cpp">
+		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/tools.cpp">
 			<Option target="UnscentedKF"/>
 		</Unit>
-		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/tools.h">
+		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/tools.h">
 			<Option target="UnscentedKF"/>
 		</Unit>
-		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/ukf.cpp">
+		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/ukf.cpp">
 			<Option target="UnscentedKF"/>
 		</Unit>
-		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/src/ukf.h">
+		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/src/ukf.h">
 			<Option target="UnscentedKF"/>
 		</Unit>
-		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-Unscented-Kalman-Filter-Project/CMakeLists.txt">
+		<Unit filename="/Users/huojunyi/biss/self-driving-car/term2/p2/CarND-p2-UKF/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

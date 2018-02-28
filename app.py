@@ -18,9 +18,19 @@ def index():
     file = 'cmake-build-debug/data.txt'
     with open(file, 'r') as f:
         ds = deque(f.read().split(' '))
-        ds.popleft()
-        ds.pop()
-        ds = map(lambda x:float(x), ds)
+
+        if len(ds) == 1:
+        	ds = [0]
+        else:
+	        ds.popleft()
+	        ds.pop()
+	        temp = []
+	        for i in ds:
+	        	if float(i) > 20:
+	        		continue
+	        	temp.append(float(i))
+	        ds = temp
+
 
     y = np.random.random(3)
     graphs = [
