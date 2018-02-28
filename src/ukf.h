@@ -74,14 +74,16 @@ public:
 
   MatrixXd P_aug;
 
+  // uncertain matrix
+  MatrixXd R_radar;
+
+  MatrixXd R_lidar;
+
+  MatrixXd Q;
+
   double previous_t;
 
-  VectorXd x_pred;
-
-  MatrixXd P_pred;
-
   // change according to n_z
-  int n_z;
 
   MatrixXd Zsig;
 
@@ -92,6 +94,10 @@ public:
   MatrixXd Tc;
 
   double nis;
+
+  double eps;
+
+  MatrixXd H_lidar;
 
 
   /**
@@ -141,8 +147,6 @@ public:
   void predict_radar_measurement();
 
   void predict_lidar_measurement();
-
-  void update_state(MeasurementPackage mp);
 
   double cal_nis(MeasurementPackage mp);
 
